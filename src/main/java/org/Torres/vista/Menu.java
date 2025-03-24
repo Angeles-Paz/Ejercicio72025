@@ -28,7 +28,7 @@ public class Menu {
 
     public static void principal2() {
         System.out.println("welcome");
-        System.out.println("Selecciona una opción");
+        System.out.println("Selecciojlkjknkjnjknjniona una opción");
         System.out.println("1.- Consola");
         System.out.println("2.- Ventana");
         System.out.println("3.- Salir");
